@@ -1,1 +1,3 @@
-api/robohash
+.vercel
+.vercel_python_packages/
+.python-version

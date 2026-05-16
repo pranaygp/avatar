@@ -2,13 +2,13 @@
 
 This is a really simple avatar generator I created for my last project. It's been incredibly helpful for all my new projects too so I decided to tidy it up a bit and make it available for anyone to use.
 
-You create images with - [avatar.windsor.io/{anything}](https://avatar.windsor.io/{anything}).
+You create images with - [avatar.pranay.gp/{anything}](https://avatar.pranay.gp/{anything}).
 
 `{anything}` can be anything, like an email address, user id, full name, url, ssn, etc.
 
 For a given path, you'll always get back the same image, which is what makes this a great default avatar to use on your site.
 
-I often use [avatar.windsor.io/{user.email}](avatar.windsor.io/{user.email}) as a default for most of my apps so the avatar for that user is consistent across any product of mine they use (and now your products too)!
+I often use [avatar.pranay.gp/{user.email}](https://avatar.pranay.gp/{user.email}) as a default for most of my apps so the avatar for that user is consistent across any product of mine they use (and now your products too)!
 
 ## To deploy this yourself
 
@@ -27,7 +27,7 @@ I often use [avatar.windsor.io/{user.email}](avatar.windsor.io/{user.email}) as 
 
 #### With Vercel
 
-1. Modify the alias field in `now.json` to wherever you want to deploy it to
+1. Configure the domain in Vercel
 2. `vercel --prod`
 
 #### On a different deployment platform

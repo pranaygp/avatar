@@ -1,0 +1,5 @@
+[project]
+name = "avatar"
+version = "0.1.0"
+dependencies = [ "pillow", "tornado", "natsort" ]
+requires-python = "~=3.12.0"
